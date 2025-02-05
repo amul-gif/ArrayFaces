@@ -33,7 +33,7 @@ void setup()
       int threePet = 0;
       int fourPet = 0;
       int fivePet = 0;
-    int sixPet = 0;
+      int sixPet = 0;
       
       for(int x = 25; x < 500; x+=100) //loop controlling columns
       {
